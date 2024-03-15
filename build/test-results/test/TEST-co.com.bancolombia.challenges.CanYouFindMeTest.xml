@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.bancolombia.challenges.CanYouFindMeTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-03-15T02:59:57" hostname="DESKTOP-MH36JAU" time="0.025">
+  <properties/>
+  <testcase name="case0()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.019"/>
+  <testcase name="case1()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.0"/>
+  <testcase name="case2()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.001"/>
+  <testcase name="case3()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.001"/>
+  <testcase name="case4()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.0"/>
+  <testcase name="case5()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.0"/>
+  <testcase name="case6()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.001"/>
+  <testcase name="case7()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.0"/>
+  <testcase name="case8()" classname="co.com.bancolombia.challenges.CanYouFindMeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

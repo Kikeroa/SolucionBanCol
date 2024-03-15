@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.bancolombia.challenges.TheJoyOfTheFirstOneTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-03-15T02:59:57" hostname="DESKTOP-MH36JAU" time="0.002">
+  <properties/>
+  <testcase name="case0()" classname="co.com.bancolombia.challenges.TheJoyOfTheFirstOneTest" time="0.001"/>
+  <testcase name="case1()" classname="co.com.bancolombia.challenges.TheJoyOfTheFirstOneTest" time="0.0"/>
+  <testcase name="case2()" classname="co.com.bancolombia.challenges.TheJoyOfTheFirstOneTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
